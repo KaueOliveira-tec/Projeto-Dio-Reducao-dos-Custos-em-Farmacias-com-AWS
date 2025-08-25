@@ -46,6 +46,7 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 
 [Amazon S3 Intelligent-Tiering - Documentação](https://docs.aws.amazon.com/AmazonS3/latest/userguide/intelligent-tiering.html)
 
+
 Assinatura do Responsável pelo Projeto:
 
 Kauê de Oliveira Martins
