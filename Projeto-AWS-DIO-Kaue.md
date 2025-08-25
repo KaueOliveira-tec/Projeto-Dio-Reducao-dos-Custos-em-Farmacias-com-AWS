@@ -34,11 +34,9 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 
 [AWS Cost Explorer](https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/)
 [AWS Cost Explorer - Documentação](https://docs.aws.amazon.com/cost-management/latest/userguide/cost-explorer-what-is.html)
-
 [AWS Auto Scaling](https://aws.amazon.com/autoscaling/)
 [AWS Auto Scaling - Documentação](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
 [AWS Auto Scaling - Guia de boas práticas](https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-aws-auto-scaling/)
-
 [Amazon S3 Intelligent-Tiering](https://aws.amazon.com/s3/storage-classes/intelligent-tiering/)
 [Amazon S3 Intelligent-Tiering - Documentação](https://docs.aws.amazon.com/AmazonS3/latest/userguide/intelligent-tiering.html)
 
